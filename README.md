@@ -6,7 +6,7 @@
 [![TAILWINDCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 
-![Project Preview](https://github.com/user-attachments/assets/e167ca60-2c1c-46f7-8218-ca93f3d7e30)
+![Project Preview](https://github.com/user-attachments/assets/b9ffe39e-30f0-4e33-8965-d545b429afd2)
 
 ## 🎯 About
 
